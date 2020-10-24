@@ -1,0 +1,6 @@
+# of threads      Time(sec)
+1				8865 ms
+2				6648 ms
+4				5323 ms
+8				4582 ms
+16				4567 ms
